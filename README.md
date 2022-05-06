@@ -8,7 +8,7 @@
 </p>
 <img src="https://komarev.com/ghpvc/?username=Deleteboys" alt="DasDirt's profile views"/>
 <p>- 🔧 I’m currently working on <a href="https://www.youtube.com/channel/UCRLqRx_5-4_D65hq4OLRFHQ"><strong>DirtyMod</strong></a></p>
-<p>- 💬  You can reach me by email <a href="mailto:deleteboys.minecraft@web.de"><strong>mailto:deleteboys.minecraft@web.de</strong></a> or by <a href=""><strong>Discord</strong></a></p>
+<p>- 💬  You can reach me by email <a href="mailto:deleteboys.minecraft@web.de"><strong>mailto:deleteboys.minecraft@web.de</strong>
 <p>- 🟢 I can do that already:</p>
 <p align="center">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" width="70" height="70"/>
