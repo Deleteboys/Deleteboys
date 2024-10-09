@@ -2,8 +2,7 @@
 
 # 💫 About Me:
 
-- 🔧 I’m currently working on DirtyMod<br>
-- 💬 You can reach me by email mailto:deleteboys.minecraft@web.de<br>
+- 💬 You can reach me by email <a href="mailto:Deleteboys.minecraft@web.de">Deleteboys.minecraft@web.de</a>
 - 💡 I'm currently learning: Rust
 
 
